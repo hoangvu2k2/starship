@@ -1,7 +1,6 @@
 
 ## Description
-REST API to connect to the [Star Wars API](https://swapi.dev/documentation#intro)
-This application was built with Nest.Js (https://nestjs.com/)
+REST API to connect to the [Star Wars API](https://swapi.dev/documentation#intro). This application was built with Nest.Js (https://nestjs.com/)
 
 ## Requirements
 
