@@ -1,13 +1,14 @@
+
+## Description
+REST API to connect to the [Star Wars API](https://swapi.dev/documentation#intro)
+This application was built with Nest.Js (https://nestjs.com/)
+
 ## Requirements
 
 ```shell
 node = ^16.13.0
 yarn = 1.22.19
 ```
-
-## Description
-REST API to connect to the [Star Wars API](https://swapi.dev/documentation#intro)
-This application was built with Nest.Js (https://nestjs.com/)
 
 ## Installation
 
