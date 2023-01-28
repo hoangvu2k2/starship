@@ -17,7 +17,8 @@ $ yarn install
 
 ## Running the app
 
-Copy env.local and remove it to .env 
+Copy env.local and rename it to .env
+
 Run the following:
 
 ```bash
